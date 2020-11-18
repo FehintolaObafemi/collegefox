@@ -4,20 +4,23 @@ Create Social Network is a educational project. The main idea is to demonstrate 
 
 Repository is divided into three main packages:
 
-- **api** This package contains API for Social Networking App, built with Nodejs, Express, GraphQL, Apollo Server and MongoDB with Mongoose.
-- **frontend** Is a frontend for Social Networking App, built with React, GraphQL, Apollo Client and Styled Components.
-- **lib** Is a Nodejs command line script, that helps users to install the Social Networking App with one command. This package is published to NPM as a `create-social-network`
+- **api**:
+This package contains API for Social Networking App, built with Nodejs, Express, GraphQL, Apollo Server and MongoDB with Mongoose.
+- **frontend**:
+Is a frontend for Social Networking App, built with React, GraphQL, Apollo Client and Styled Components.
+- **lib**:
+Is a Nodejs command line script, that helps users to install the Social Networking App with one command. This package is published to NPM as a `create-social-network`
 
 ## Features
 
-- **Messenger** Real time messaging system.
-- **Notifications** Get instant notification when someone follows/messages you or likes/comments on your post.
-- **User Status** Check if user is Online or not in real time.
-- **News Feed** Fresh posts from people you are following.
-- **Explore** New Posts and People.
-- **Follow** a particular user and get notified for their activity.
-- **Personalize Profile** With profile/cover photo and personal posts.
-- **Authentication & Authorization** with Password reset functionality.
+- **Messenger**: Real time messaging system.
+- **Notifications**: Get instant notification when someone follows/messages you or likes/comments on your post.
+- **User Status**: Check if user is Online or not in real time.
+- **News Feed**: Fresh posts from people you are following.
+- **Explore**: New Posts and People.
+- **Follow**: a particular user and get notified for their activity.
+- **Personalize Profile**: With profile/cover photo and personal posts.
+- **Authentication & Authorization**: with Password reset functionality.
 
 ## Demo
 
@@ -126,10 +129,11 @@ The page will automatically reload if you make changes to the code.
 
 In development mode we are starting `api` and `frontend` servers with one command, but we need to deploy them separately.
 
-[API Deployment](https://github.com/dimimikadze/create-social-network/tree/master/api#api-deployment-to-heroku)
+[API Deployment](https://github.com/fehintolaobafemi/collegefox/tree/master/api#api-deployment-to-heroku)
 
-[Frontend Deployment](https://github.com/dimimikadze/create-social-network/tree/master/frontend#frontend-deployment-to-netlify)
+[Frontend Deployment](https://github.com/fehintolaobafemi/collegefox/tree/master/frontend#frontend-deployment-to-netlify)
 
 ## License
 
-[MIT License](https://github.com/dimimikadze/create-social-network/blob/master/LICENSE.md) Copyright (c) 2020 [Dimi Mikadze](https://dimimikadze.com/)
+[MIT License](https://github.com/fehintolaobafemi/collegefox/blob/master/LICENSE)
+Copyright (c) 2020 [M.Taofeek Fehintola Obafemi-Babatunde](https://fehintolaobafemi.com/)
