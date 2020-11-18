@@ -41,8 +41,6 @@ cd my-network
 npm start
 ```
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/DimiMikadze/142aba2c0a898843d765b3e4870870ce))_
-
 After installation open [http://localhost:3000/](http://localhost:3000/) to see your app.
 
 <p align='center'>
@@ -132,10 +130,6 @@ In development mode we are starting `api` and `frontend` servers with one comman
 
 [Frontend Deployment](https://github.com/dimimikadze/create-social-network/tree/master/frontend#frontend-deployment-to-netlify)
 
-## Contributing
-
-Please read our [CONTRIBUTING.md](https://github.com/dimimikadze/create-social-network/blob/master/CONTRIBUTING.md) before submitting a Pull Request to the project.
-
 ## License
 
-[MIT License](https://github.com/dimimikadze/create-social-network/blob/master/LICENSE.md) Copyright (c) 2019 [Dimi Mikadze](https://dimimikadze.com/)
+[MIT License](https://github.com/dimimikadze/create-social-network/blob/master/LICENSE.md) Copyright (c) 2020 [Dimi Mikadze](https://dimimikadze.com/)
