@@ -136,5 +136,7 @@ In development mode we are starting `api` and `frontend` servers with one comman
 ## License
 
 Inspired by [Create-social-network](https://github.com/DimiMikadze/create-social-network)
+
 [MIT License](https://github.com/fehintolaobafemi/collegefox/blob/master/LICENSE)
+
 Copyright (c) 2020 [M.Taofeek Fehintola Obafemi-Babatunde](https://fehintolaobafemi.com/)
