@@ -1,6 +1,6 @@
-# Create Social Network ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+# College Fox ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
-Create Social Network is a educational project. The main idea is to demonstrate how one can build a large scalable project with Javascript. However you get the core functionality of social network by running one command and then you can build more on top of that.
+College Fox is an attempt at a class project for the Software Engineering course. The main idea is to utilize available resources to demonstrate how one can build a large scalable project with Javascript. However you get the core functionality of social network by running one command and then you can build more on top of that.
 
 Repository is divided into three main packages:
 
@@ -135,5 +135,6 @@ In development mode we are starting `api` and `frontend` servers with one comman
 
 ## License
 
+Inspired by [Create-social-network](https://github.com/DimiMikadze/create-social-network)
 [MIT License](https://github.com/fehintolaobafemi/collegefox/blob/master/LICENSE)
 Copyright (c) 2020 [M.Taofeek Fehintola Obafemi-Babatunde](https://fehintolaobafemi.com/)
