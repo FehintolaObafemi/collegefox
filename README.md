@@ -24,7 +24,7 @@ Is a Nodejs command line script, that helps users to install the Social Networki
 
 ## Demo
 
-https://worldexplorer.netlify.com/
+https://collegefox.netlify.app/
 
 ## Screenshots of the app
 
